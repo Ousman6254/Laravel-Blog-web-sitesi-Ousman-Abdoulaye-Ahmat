@@ -1,1 +1,1 @@
-# Laverel-Blog-web-sitesi-Ousman-Abdoulaye-Ahmat
+# Laravelel-Blog-web-sitesi-Ousman-Abdoulaye-Ahmat
